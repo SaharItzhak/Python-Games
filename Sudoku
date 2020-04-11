@@ -1,3 +1,10 @@
+
+# Insert a valid number (1-9) to the empty boxes
+# Enter - place the number in the box if valid
+# Del - to delete number entered
+# Space - solves the grid
+
+
 # GUI.py
 import pygame
 import time
